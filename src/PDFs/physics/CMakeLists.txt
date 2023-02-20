@@ -27,6 +27,7 @@ goofit_add_pdf_library(
   ThreeGaussResolutionSplice.cu
   TruthResolution.cu
   SquareDalitzEffPdf.cu
+  LauraSquareDalitzEffPdf.cu
   detail/AmpCalc.cu
   detail/AmpCalc_TD.cu
   detail/LSCalculator.cu
